@@ -2,7 +2,7 @@
 
  ![](https://image.pollinations.ai/prompt/Minimalist%20dark%20background%20with%20subtle%20glowing%20blue%20and%20green%20lines%20of%20code%20forming%20abstract%20geometric%20patterns%2C%20professional%20tech%20banner%2C%20cinematic%20lighting?width=1080&height=300&nologo=true)
   
-# Chamika Rajapaksha
+# Chamika Rasanjana
 
 **Software Engineering Professional | Baddegama, Sri Lanka 🇱🇰**
 
@@ -17,7 +17,7 @@ I specialize in developing scalable applications and solving complex technical c
 ## 🔗 Professional Network
 
 <p align="center">
-  <a href="https://linkedin.com/in/chamika-rajapaksha" target="_blank">
+  <a href="https://linkedin.com/in/chamika-rasanjana" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>&nbsp;
   <a href="https://github.com/chamika1" target="_blank">
