@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://image.pollinations.ai/prompt/Abstract%203D%20plexus%20network%20connections%20with%20glowing%20nodes%20on%20a%20deep%20teal%20and%20purple%20gradient%20background%2C%20clean%20minimalist%20design%2C%20technology%20concept?width=1080&height=300&nologo=true" alt="AI Generated Banner - Abstract Network"/>
+ <img src="https://image.pollinations.ai/prompt/Minimalist%20dark%20background%20with%20subtle%20glowing%20blue%20and%20green%20lines%20of%20code%20forming%20abstract%20geometric%20patterns%2C%20professional%20tech%20banner%2C%20cinematic%20lighting?width=1080&height=300&nologo=true" alt="AI Generated Banner - Minimalist Code"/>
   
   <h1>
     Hi there, I'm Chamika! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
