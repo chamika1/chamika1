@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://image.pollinations.ai/prompt/a%20minimalist%20abstract%20representation%20of%20code%20and%20nature%20in%20Sri%20Lanka?width=1080&height=300&nologo=true" alt="AI Generated Banner for Chamika"/>
+  <img src="https://image.pollinations.ai/prompt/A%20serene%20misty%20Sri%20Lankan%20mountain%20landscape%20like%20Ella%20Rock%20fused%20with%20glowing%20digital%20data%20streams%2C%20minimalist%20vector%20art%2C%20blue%20and%20green%20hues?width=1080&height=300&nologo=true" alt="AI Generated Banner - Tech Nature"/>
 
   <h1>
     Hi there, I'm Chamika! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
