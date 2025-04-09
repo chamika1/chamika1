@@ -1,47 +1,39 @@
 <div align="center">
 
- <img src="https://image.pollinations.ai/prompt/Minimalist%20dark%20background%20with%20subtle%20glowing%20blue%20and%20green%20lines%20of%20code%20forming%20abstract%20geometric%20patterns%2C%20professional%20tech%20banner%2C%20cinematic%20lighting?width=1080&height=300&nologo=true" alt="AI Generated Banner - Minimalist Code"/>
+ <img src="https://image.pollinations.ai/prompt/Minimalist%20dark%20background%20with%20subtle%20glowing%20blue%20and%20green%20lines%20of%20code%20forming%20abstract%20geometric%20patterns%2C%20professional%20tech%20banner%2C%20cinematic%20lighting?width=1080&height=300&nologo=true" alt="Professional Tech Banner"/>
   
-  <h1>
-    Hi there, I'm Chamika! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+# Chamika Rajapaksha
 
-  <p>
-    <strong>A passionate [Your Role - e.g., Software Engineer / Web Developer / Tech Enthusiast] based in Baddegama, Sri Lanka 🇱🇰</strong>
-  </p>
+**Software Engineering Professional | Baddegama, Sri Lanka 🇱🇰**
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=chamika1&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile views"/>
-  </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=chamika1&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)](https://github.com/chamika1)
 
-  <p>
-    I enjoy building innovative solutions and exploring the intersection of technology and creativity. <br/> Currently diving deep into [Mention a technology or field you're focusing on].
-  </p>
+I specialize in developing scalable applications and solving complex technical challenges through innovative approaches. Currently focusing on cloud-native architectures and distributed systems design.
 
 </div>
 
 ---
 
-<h2 align="center">🌐 Connect with Me</h2>
+## 🔗 Professional Network
 
 <p align="center">
   <a href="[YOUR_LINKEDIN_URL]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>&nbsp;
-  <a href="[YOUR_TWITTER_URL]" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="[YOUR_GITHUB_URL]" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>&nbsp;
   <a href="mailto:[YOUR_EMAIL_ADDRESS]" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>&nbsp;
   <a href="[YOUR_PORTFOLIO_OR_WEBSITE_URL]" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-343A40?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-343A40?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/>
   </a>&nbsp;
-  </p>
+</p>
 
 ---
 
-<h2 align="center">🛠️ My Tech Stack & Tools</h2>
+## 💻 Technical Proficiencies
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>&nbsp;
@@ -51,40 +43,55 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>&nbsp;
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>&nbsp;
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>&nbsp;
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>&nbsp;
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>&nbsp;
-  </p>
+</p>
 
 ---
 
-<h2 align="center">📊 GitHub Activity Stats</h2>
+## 📊 Performance Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chamika1&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Chamika's GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=chamika1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="Chamika's GitHub Contribution Metrics" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamika1&layout=compact&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Chamika's Top Languages" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamika1&layout=compact&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="Primary Programming Languages" width="48%"/>
 
 </div>
 
 ---
 
-<h2 align="center">🚀 Current Focus & Projects</h2>
+## 🚀 Current Initiatives
 
 <div align="center">
 
-<p>🌱 I’m currently learning more about [Specific Technology/Area].</p>
-<p>🔭 Working on [Project Name] - [Brief Description]. Check it out <a href="[Link to Project Repo]">here</a>!</p>
-<p>👯 Open to collaborating on projects involving [Types of Projects/Technologies].</p>
-<p>⚡ Ask me about [Topics you are knowledgeable in].</p>
+- **Research & Development**: Exploring microservices architecture optimization techniques and performance benchmarking methodologies
+- **Project**: Developing an enterprise-grade authentication system with advanced security features [Repository](https://github.com/chamika1/auth-system)
+- **Open Source**: Contributing to infrastructure automation tools and developer productivity frameworks
+- **Technical Expertise**: System architecture design, performance optimization, and security implementation
+
+</div>
+
+---
+
+## 📝 Technical Publications
+
+<div align="center">
+
+- [Optimizing API Performance in Distributed Systems](URL_TO_PUBLICATION) - Technical whitepaper
+- [Implementing Zero-Trust Security Models](URL_TO_PUBLICATION) - Best practices guide
+- [Cloud-Native Application Development Strategies](URL_TO_PUBLICATION) - Industry analysis
 
 </div>
 
 ---
 
 <p align="center">
-  <em>Thanks for visiting my profile! Let's connect and build something amazing together.</em>
+  <em>I'm committed to engineering excellence and continuously expanding my technical capabilities. Let's discuss collaboration opportunities on transformative projects.</em>
 </p>
 
 <div align="center">
-  <img src="[URL_TO_A_SMALL_SEPARATOR_IMAGE_OR_GIF]" alt="Separator" width="50%"/>
+  <img src="https://github.com/chamika1/chamika1/blob/main/assets/divider.png" alt="Divider" width="50%"/>
 </div>
