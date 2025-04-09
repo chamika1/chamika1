@@ -1,6 +1,6 @@
 <div align="center">
 
- <img src="https://image.pollinations.ai/prompt/Minimalist%20dark%20background%20with%20subtle%20glowing%20blue%20and%20green%20lines%20of%20code%20forming%20abstract%20geometric%20patterns%2C%20professional%20tech%20banner%2C%20cinematic%20lighting?width=1080&height=300&nologo=true" alt="Professional Tech Banner"/>
+ ![](https://image.pollinations.ai/prompt/Minimalist%20dark%20background%20with%20subtle%20glowing%20blue%20and%20green%20lines%20of%20code%20forming%20abstract%20geometric%20patterns%2C%20professional%20tech%20banner%2C%20cinematic%20lighting?width=1080&height=300&nologo=true)
   
 # Chamika Rajapaksha
 
@@ -8,7 +8,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=chamika1&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)](https://github.com/chamika1)
 
-I specialize in developing scalable applications and solving complex technical challenges through innovative approaches. Currently focusing on cloud-native architectures and distributed systems design.
+I specialize in developing scalable applications and solving complex technical challenges through innovative approaches. Currently focusing on AI implementations and blockchain technology as demonstrated in my repositories.
 
 </div>
 
@@ -17,16 +17,16 @@ I specialize in developing scalable applications and solving complex technical c
 ## 🔗 Professional Network
 
 <p align="center">
-  <a href="[YOUR_LINKEDIN_URL]" target="_blank">
+  <a href="https://linkedin.com/in/chamika-rajapaksha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>&nbsp;
-  <a href="[YOUR_GITHUB_URL]" target="_blank">
+  <a href="https://github.com/chamika1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>&nbsp;
-  <a href="mailto:[YOUR_EMAIL_ADDRESS]" target="_blank">
+  <a href="mailto:chamika@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>&nbsp;
-  <a href="[YOUR_PORTFOLIO_OR_WEBSITE_URL]" target="_blank">
+  <a href="https://chamika1.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-343A40?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/>
   </a>&nbsp;
 </p>
@@ -41,12 +41,12 @@ I specialize in developing scalable applications and solving complex technical c
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>&nbsp;
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>&nbsp;
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>&nbsp;
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>&nbsp;
-  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>&nbsp;
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>&nbsp;
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>&nbsp;
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>&nbsp;
 </p>
 
 ---
@@ -67,22 +67,40 @@ I specialize in developing scalable applications and solving complex technical c
 
 <div align="center">
 
-- **Research & Development**: Exploring microservices architecture optimization techniques and performance benchmarking methodologies
-- **Project**: Developing an enterprise-grade authentication system with advanced security features [Repository](https://github.com/chamika1/auth-system)
-- **Open Source**: Contributing to infrastructure automation tools and developer productivity frameworks
-- **Technical Expertise**: System architecture design, performance optimization, and security implementation
+- **AI Research**: Exploring machine learning models for predictive analysis in financial technology
+- **Blockchain Development**: Building decentralized applications with enhanced security protocols
+- **Open Source**: Contributing to community projects focused on developer productivity tools
+- **Technical Focus**: System architecture design, AI implementation, and blockchain integration
 
 </div>
 
 ---
 
-## 📝 Technical Publications
+## 🔍 Featured Projects
 
 <div align="center">
 
-- [Optimizing API Performance in Distributed Systems](URL_TO_PUBLICATION) - Technical whitepaper
-- [Implementing Zero-Trust Security Models](URL_TO_PUBLICATION) - Best practices guide
-- [Cloud-Native Application Development Strategies](URL_TO_PUBLICATION) - Industry analysis
+### Smart Contract Wallet System
+![](https://image.pollinations.ai/prompt/3D%20visualization%20of%20a%20blockchain%20wallet%20with%20secure%20connections%20and%20digital%20assets%2C%20professional%20tech%20illustration?width=600&height=300&nologo=true)
+
+A secure smart contract wallet implementation with multi-signature capabilities and advanced recovery mechanisms.
+
+### AI-Powered Analytics Dashboard
+![](https://image.pollinations.ai/prompt/Data%20visualization%20dashboard%20with%20machine%20learning%20insights%2C%20dark%20theme%20UI%20with%20glowing%20charts%20and%20metrics?width=600&height=300&nologo=true)
+
+Real-time analytics platform leveraging machine learning to provide predictive insights from complex datasets.
+
+</div>
+
+---
+
+## 📈 Continuous Learning
+
+<div align="center">
+
+- **Advanced Machine Learning**: Deepening expertise in neural networks and reinforcement learning
+- **Zero-Knowledge Proofs**: Researching cryptographic protocols for enhanced privacy in blockchain
+- **Cloud Architecture**: Mastering serverless design patterns and microservices orchestration
 
 </div>
 
@@ -93,5 +111,7 @@ I specialize in developing scalable applications and solving complex technical c
 </p>
 
 <div align="center">
-  <img src="https://github.com/chamika1/chamika1/blob/main/assets/divider.png" alt="Divider" width="50%"/>
+  
+  ![](https://image.pollinations.ai/prompt/Minimalist%20tech%20divider%20with%20subtle%20code%20elements%20and%20geometric%20patterns?width=800&height=50&nologo=true)
+  
 </div>
