@@ -124,11 +124,11 @@
 
 <!-- Replace 'project-name-1' and 'project-name-2' with your actual repository names -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamika1&repo=tts-web&theme=radical)](https://github.com/chamika1/tts-web)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamika1&repo=project-name-2&theme=radical)](https://github.com/chamika1/project-name-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamika1&repo=substitle-gen-sinhala&theme=radical)](https://github.com/chamika1/substitle-gen-sinhala)
 
 <!-- Add more featured projects as needed -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamika1&repo=project-name-3&theme=radical)](https://github.com/chamika1/project-name-3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamika1&repo=project-name-4&theme=radical)](https://github.com/chamika1/project-name-4)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamika1&repo=spotify_downloader&theme=radical)](https://github.com/chamika1/spotify_downloader)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamika1&repo=study_helper&theme=radical)](https://github.com/chamika1/study_helper)
 
 </div>
 
