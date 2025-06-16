@@ -132,11 +132,7 @@
 
 </div>
 
-### 📝 How to Update Featured Projects:
-1. Visit your repositories at: https://github.com/chamika1?tab=repositories
-2. Choose your best/most important projects
-3. Replace `project-name-1`, `project-name-2`, etc. with your actual repository names
-4. Remove or add more project cards as needed
+
 
 ---
 
