@@ -123,7 +123,7 @@
 <div align="center">
 
 <!-- Replace 'project-name-1' and 'project-name-2' with your actual repository names -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamika1&repo=project-name-1&theme=radical)](https://github.com/chamika1/project-name-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamika1&repo=tts-web&theme=radical)](https://github.com/chamika1/tts-web)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamika1&repo=project-name-2&theme=radical)](https://github.com/chamika1/project-name-2)
 
 <!-- Add more featured projects as needed -->
