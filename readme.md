@@ -122,7 +122,7 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamika1&repo=your-project-1&theme=radical)](https://github.com/chamika1/your-project-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamika1&repo=your-project-1&theme=radical)]([https://github.com/chamika1/your-project-1](https://github.com/chamika1/sinhalasubgen))
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamika1&repo=your-project-2&theme=radical)](https://github.com/chamika1/your-project-2)
 
 </div>
