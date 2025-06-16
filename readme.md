@@ -55,7 +55,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -122,10 +122,21 @@
 
 <div align="center">
 
-[![Readme Card](https://github.com/chamika1/sinhalasubgen)]([https://github.com/chamika1/your-project-1](https://github.com/chamika1/sinhalasubgen))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamika1&repo=your-project-2&theme=radical)](https://github.com/chamika1/your-project-2)
+<!-- Replace 'project-name-1' and 'project-name-2' with your actual repository names -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamika1&repo=project-name-1&theme=radical)](https://github.com/chamika1/project-name-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamika1&repo=project-name-2&theme=radical)](https://github.com/chamika1/project-name-2)
+
+<!-- Add more featured projects as needed -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamika1&repo=project-name-3&theme=radical)](https://github.com/chamika1/project-name-3)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chamika1&repo=project-name-4&theme=radical)](https://github.com/chamika1/project-name-4)
 
 </div>
+
+### 📝 How to Update Featured Projects:
+1. Visit your repositories at: https://github.com/chamika1?tab=repositories
+2. Choose your best/most important projects
+3. Replace `project-name-1`, `project-name-2`, etc. with your actual repository names
+4. Remove or add more project cards as needed
 
 ---
 
