@@ -69,12 +69,12 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chamika1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamika1&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chamika1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamika1&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=chamika1&theme=radical&hide_border=true&border_radius=10"/>
+  <img width="100%" src="https://streak-stats.demolab.com?user=chamika1&theme=radical&hide_border=true&border_radius=10"/>
 </div>
 
 ---
@@ -101,10 +101,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chamika1&theme=radical" width="100%"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chamika1&theme=radical" width="30%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chamika1&theme=radical" width="30%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chamika1&theme=radical" width="30%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chamika1&theme=radical" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chamika1&theme=radical" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chamika1&theme=radical" width="32%"/>
 </div>
 
 ---
