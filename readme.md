@@ -20,7 +20,7 @@
 - 🌱 I'm currently learning **Cloud Technologies & DevOps**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **Full Stack Development, APIs, and Problem Solving**
-- 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)**
+- 📫 How to reach me: **[your.email@example.com](mailto:rasanjanachamika@gmail.com)**
 - ⚡ Fun fact: **I love turning coffee into code!** ☕
 
 ---
