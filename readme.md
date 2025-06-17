@@ -180,8 +180,18 @@
 ### 💡 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🐍 Contribution Snake
-![snake gif](https://github.com/chamika1/chamika1/blob/output/github-contribution-grid-snake.svg)
+## ❤️ Support
+
+If you find this project helpful and would like to support its development, you can:
+
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jLufrxRaO1)
+
+Your support is greatly appreciated!
+
+* **Project & Community:**
+    * [Tech Blog](https://techbloglk.xyz/)
+    * [Telegram Group](https://t.me/study_helper_physics)
+    * [Facebook Page](https://web.facebook.com/people/Techbloglk/61575108633834/)
 
 </div>
 
