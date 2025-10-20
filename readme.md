@@ -130,15 +130,12 @@
 <div align="center">
 
 ### 🎓 Certifications
-🏆 **AWS Certified Developer** - Amazon Web Services  
 🏆 **Google Cloud Professional** - Google Cloud Platform  
 🏆 **Full Stack Web Development** - Certified Professional  
 
 ### 🏅 Notable Achievements
-🌟 **Top Contributor** in multiple open-source projects  
-🥇 **Hackathon Winner** - Tech Innovation Challenge 2024  
-📚 **Technical Writer** with 10K+ readers across platforms  
-🎯 **Problem Solver** - 500+ coding challenges completed  
+🌟 **Contributor** in multiple open-source projects  
+🎯 **Problem Solver** - coding challenges completed  
 
 </div>
 
