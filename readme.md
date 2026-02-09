@@ -13,7 +13,13 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="80" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="80" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Rocket.png" width="80" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;AI+%26+Bot+Developer;Cloud+Enthusiast;Open+Source+Contributor&font=Fira%20Code&center=true&width=600&height=100&color=58A6FF&vCenter=true&pause=1000&size=20" alt="Profile Banner" />
 </div>
 
 ---
@@ -246,8 +252,8 @@ Other        25 mins         ░░░░░░░░░░░░░░░░░
 
 ---
 
-### 🎵 Now Playing on Spotify
-[![Spotify](https://novatorem-chamika.vercel.app/api/spotify)](https://open.spotify.com/user/31oc3q3krhqx5k6l73zukwlpyhry)
+### 🎵 Connect with Me on Spotify
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31oc3q3krhqx5k6l73zukwlpyhry)
 
 ---
 
@@ -278,7 +284,9 @@ Other        25 mins         ░░░░░░░░░░░░░░░░░
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
+</div>
 
 **✨ "Code is like humor. When you have to explain it, it's bad." – Cory House**
 
@@ -301,9 +309,7 @@ Other        25 mins         ░░░░░░░░░░░░░░░░░
 ---
 
 <div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/chamika1/chamika1/output/github-contribution-grid-snake-dark.svg)
-  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chamika1&custom_title=Chamika's%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area_color=58A6FF&title_color=58A6FF&area=true" width="100%">
 </div>
 
 <!-- Proudly created with passion by Chamika Rasanjana -->
