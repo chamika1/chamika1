@@ -121,10 +121,10 @@ const chamika = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chamika1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=2&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=chamika1&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
 </div>
 
 ---
@@ -147,18 +147,61 @@ const chamika = {
 
 ## 🎯 Featured Projects
 
-<div align="center">
-
 ### 🤖 AI & Bot Projects
-[![WhatsApp Bot](https://github-readme-stats.vercel.app/api/pin/?username=chamika1&repo=whatsapp_bot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/chamika1/whatsapp_bot)
-[![Study Helper](https://github-readme-stats.vercel.app/api/pin/?username=chamika1&repo=study_helper&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/chamika1/study_helper)
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">WhatsApp Bot 🤖</h3>
+<div align="center">  
+<a href="https://github.com/chamika1/whatsapp_bot" target="_blank"><img src="https://img.shields.io/badge/View-Project-58A6FF?style=for-the-badge&logo=github" alt="View Project"/></a>
+<p><strong>AI-powered WhatsApp bot</strong> with Gemini integration, PDF analysis, image generation, and smart conversation features.</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Study Helper 📚</h3>
+<div align="center">  
+<a href="https://github.com/chamika1/study_helper" target="_blank"><img src="https://img.shields.io/badge/View-Project-58A6FF?style=for-the-badge&logo=github" alt="View Project"/></a>
+<p><strong>Educational Telegram bot</strong> helping students with physics problems and study materials.</p>
+</div>
+</td>
+</tr>
+</table>
 
 ### 🌐 Web Applications
-[![TTS Web](https://github-readme-stats.vercel.app/api/pin/?username=chamika1&repo=tts-web&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/chamika1/tts-web)
-[![Spotify Downloader](https://github-readme-stats.vercel.app/api/pin/?username=chamika1&repo=spotify_downloader&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/chamika1/spotify_downloader)
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">TTS Web 🗣️</h3>
+<div align="center">  
+<a href="https://github.com/chamika1/tts-web" target="_blank"><img src="https://img.shields.io/badge/View-Project-58A6FF?style=for-the-badge&logo=github" alt="View Project"/></a>
+<p><strong>Text-to-Speech web app</strong> with multiple language support and voice customization.</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Spotify Downloader 🎵</h3>
+<div align="center">  
+<a href="https://github.com/chamika1/spotify_downloader" target="_blank"><img src="https://img.shields.io/badge/View-Project-58A6FF?style=for-the-badge&logo=github" alt="View Project"/></a>
+<p><strong>Spotify music downloader</strong> with high-quality audio extraction and metadata support.</p>
+</div>
+</td>
+</tr>
+</table>
 
 ### 🎬 Media & Content Tools
-[![Subtitle Generator](https://github-readme-stats.vercel.app/api/pin/?username=chamika1&repo=substitle-gen-sinhala&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/chamika1/substitle-gen-sinhala)
+
+<table>
+<tr>
+<td width="100%">
+<h3 align="center">Sinhala Subtitle Generator 🎬</h3>
+<div align="center">  
+<a href="https://github.com/chamika1/substitle-gen-sinhala" target="_blank"><img src="https://img.shields.io/badge/View-Project-58A6FF?style=for-the-badge&logo=github" alt="View Project"/></a>
+<p><strong>AI-powered subtitle generator</strong> for Sinhala language with auto-translation and timing sync.</p>
+</div>
+</td>
+</tr>
+</table>
 
 </div>
 
